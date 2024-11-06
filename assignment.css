@@ -1,0 +1,87 @@
+.body{
+    background-color: rgb(207, 54, 54);
+
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    background-color: black;
+}
+.navbar{
+    border: 2px solid rgb(235, 82, 17);
+    background-color:maroon;
+    height: 60px;
+    width: 100%;
+    margin-right: 300px;
+    
+
+}
+.navbar>ol{
+    display: flex;
+    justify-content: space-between;
+     background-color: maroon;
+     color: white;
+     margin-top: 20px;
+     list-style: none;
+};
+.yes{
+    width: 80px;
+    height: 70px;
+}
+.button{
+    width: 30%;
+    height: 30px;
+    border-radius: 30px;
+    background-color: red;
+    color: whitesmoke;
+}
+.email{
+    width: 30%;
+    height: 30px;
+    border-radius: 10px;
+}
+.password{
+    width: 30%;
+    height: 30px;
+    border-radius: 10px;
+}
+.label{
+    color: white;
+}
+.pass{
+    color: white;
+}
+.pol{
+    color: white;
+    font-size: 50px;
+}.your{
+    margin-right: -270px;
+    margin-top: -20px;
+    color: red;
+}.rem{
+    margin-left: -300px;
+    color: white;
+
+}
+.masters{
+    color: red;
+    font-family: system-ui,
+
+}
+ .tt{
+    color: white;
+    border-radius: 20px;
+    background-color: red;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.w{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
